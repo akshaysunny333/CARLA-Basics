@@ -10,6 +10,7 @@ The scripts focus on **vehicle spawning and basic sensor usage**, which are fund
 - `surround_camera.py` – Creates a basic surround-view camera setup
 - `LiDAR+RGB.py` – Uses LiDAR and RGB camera sensors together
 - `gnss+imu.py` – Displays the value from the GNSS and IMU sensor
+- carla_utils  –  Basic reusable utilities for CARLA. It can be added to the directory and called to simplify the script.
 
 ## Requirements
 
